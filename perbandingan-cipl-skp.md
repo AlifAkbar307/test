@@ -160,8 +160,8 @@ Tapi menyebabkan rincian CIPL tidak menjumlah ke Total Item-nya sendiri (75 vs 8
 
 | # | Temuan | Lokasi | Tindakan |
 |---|---|---|---|
-| 1 | SKP Box 1 & 2 (225 item) tidak ada di CIPL | SKP Box 1, 2 | Konfirmasi ke customer: ikut kiriman atau tidak? |
-| 2 | keychains 4 vs 14 | CIPL Box 5 / SKP Box 7 | Kemungkinan typo CIPL, perbaiki jadi 14 |
-| 3 | string bag (1) tidak ada padanan | CIPL Box 1 | Cek apakah maksudnya Totebag di SKP Box 2 |
-| 4 | Arm rest (1) tidak jelas masuk mana | SKP Box 4 | Klarifikasi pemetaan |
+| 1 | SKP Box 1 & 2 (225 item) tidak ada di CIPL | SKP Box 1, 2 | Konfirmasi ke customer: Apakah box 1-2 pada SKP merupakan Handcarry? |
+| 2 | keychains 4 vs 14 | CIPL Box 5 / SKP Box 7 | Klarifikasi ke customer |
+| 3 | string bag (1) tidak match | CIPL Box 1 | Apakah string bag pada CIPL mengacu pada tote bag pada box 2 SKP? |
+| 4 | Arm rest (1) tidak tertera pada CIPL | SKP Box 4 | Barang ini tidak diikutkan dalam pengiriman? |
 | 5 | Barang SEK 0 (Degree certificate, Personal letters, Map) | SKP Box 4, 5 | Butuh statement letter saat clearance |
